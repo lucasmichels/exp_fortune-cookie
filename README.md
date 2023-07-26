@@ -25,6 +25,10 @@ This project simulates you opening a fortune cookie and receiving a random messa
 
 
 
+https://github.com/lucasmichels/exp_fortune-cookie/assets/39132280/aff9df26-a324-4388-b452-aa11233ae651
+
+
+
 ## Authors
 
 - [@lucasmichels](https://www.github.com/lucasmichels)
