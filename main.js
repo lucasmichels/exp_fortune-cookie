@@ -33,37 +33,37 @@ function luckMessage() {
 
     switch (messageNumber) {
         case 0:
-            return 'Se alguém está tão cansado que não possa te dar um sorriso, deixa-lhe o teu.'
+            return 'I didn’t come this far to only come this far.'
             
         case 1:
-            return 'Demonstre amor e alegria em todas as oportunidades e verá que a paz nasce dentro de si.'
+            return 'If you want the rainbow, you gotta put up with the rain!'
         
         case 2:
-            return 'A maior de todas as torres começa no solo.'
+            return 'Appreciate. Appreciate. Appreciate.'
             
         case 3:
-            return 'Podemos escolher o que semear, mas somos obrigados a colher o que plantamos.'
+            return 'Move in the direction of your dreams.'
         
         case 4:
-            return 'Siga os bons e aprenda com eles.'
+            return 'A smile is your passport into the hearts of others.'
             
         case 5:
-            return 'Não importa o tamanho da montanha, ela não pode tapar o sol.'
+            return 'Change can hurt, but it leads a path to something better.'
 
         case 6:
-            return 'Todas as coisas são difíceis antes de se tornarem fáceis.'
+            return "What ever you're goal is in life, embrace it visualize it, and for it will be yours."
         
         case 7:
-            return 'Você é do tamanho do seu sonho.'
+            return 'You cannot love life until you live the life you love.'
             
         case 8:
-            return 'O conhecimento é a única virtude e a ignorância é o único vício.'
+            return 'It is now, and in this world, that we must live.'
         
         case 9:
-            return 'A maior barreira para o sucesso é o medo do fracasso.'
+            return 'A stranger, is a friend you have not spoken to yet.'
             
         case 10:
-            return 'O verdadeiro homem mede a sua força, quando se defronta com o obstáculo.'
+            return "Never give up on someone that you don't go a day without thinking about."
 
         default:
             break;
