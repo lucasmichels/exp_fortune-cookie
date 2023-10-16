@@ -36,7 +36,7 @@ function luckMessage() {
             return 'I didn’t come this far to only come this far.'
             
         case 1:
-            return 'If you want the rainbow, you gotta put up with the rain!'
+            return 'If you want the rainbow, you gotta put up with the rain.'
         
         case 2:
             return 'Appreciate. Appreciate. Appreciate.'
